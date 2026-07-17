@@ -8,7 +8,7 @@ Formado em Análise e Desenvolvimento de Sistemas, atuo há quase 4 anos como **
 ---
 
 ### 👨‍👩‍👧‍👦 Um pouco além do código:
-Tenho 30 anos, sou casado há 9 anos e pai orgulhoso do Christopher (3 anos) e, muito em breve, da Alice que chega agora em agosto! Família é a minha maior motivação para evoluir todos os dias.
+Tenho 30 anos, sou casado e pai orgulhoso do Christopher (3 anos) e da Alice que chega agora em agosto! Família é a minha maior motivação para evoluir todos os dias.
 
 ---
 
@@ -36,4 +36,11 @@ Tenho 30 anos, sou casado há 9 anos e pai orgulhoso do Christopher (3 anos) e, 
 ![](https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB)
 ![](https://img.shields.io/badge/TypeScript-007ACC?style=for-the-badge&logo=typescript&logoColor=white)
 ![](https://img.shields.io/badge/SQL-CC2927?style=for-the-badge&logo=microsoftsqlserver&logoColor=white)
+
+
+---
+
+### 🐍 Meu Gráfico de Commits (Jogo da Cobrinha):
+
+![Cobrinha do GitHub](https://raw.githubusercontent.com/AlissonParra/AlissonParra/output/github-contribution-grid-snake-dark.svg)
 

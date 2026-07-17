@@ -18,13 +18,12 @@ Tenho 30 anos, sou casado e pai orgulhoso do Christopher (3 anos) e da Alice que
 
 ---
 
+
 ## Conecte-se comigo:
 
-<div>
-  <a href="https://www.linkedin.com/in/alisson-parra-b39709128/" target="_blank">
-    <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn Badge">
-  </a>
-</div>
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/alisson-parra-b39709128/)
+
+---
 
 
 ---

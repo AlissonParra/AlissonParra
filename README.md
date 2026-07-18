@@ -18,28 +18,24 @@ Tenho 30 anos, sou casado e pai orgulhoso do Christopher (3 anos) e da Alice que
 
 ---
 
-
-## Conecte-se comigo:
-
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/alisson-parra-b39709128/)
-
----
-
-
----
-
----
-
 ### 🚀 Tecnologias que pretendo dominar em breve:
 ![](https://img.shields.io/badge/Node.js-339933?style=for-the-badge&logo=nodedotjs&logoColor=white)
 ![](https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB)
 ![](https://img.shields.io/badge/TypeScript-007ACC?style=for-the-badge&logo=typescript&logoColor=white)
 ![](https://img.shields.io/badge/SQL-CC2927?style=for-the-badge&logo=microsoftsqlserver&logoColor=white)
 
-
 ---
 
-### 🐍 Meu Gráfico de Commits (Jogo da Cobrinha):
 
-![Cobrinha do GitHub](https://raw.githubusercontent.com/AlissonParra/AlissonParra/output/github-contribution-grid-snake-dark.svg)
+## Conecte-se comigo:
+
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/alisson-parra-b39709128/)
+
+
+
+
+
+
+
+
 
